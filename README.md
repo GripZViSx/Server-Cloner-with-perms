@@ -23,7 +23,7 @@ This Server Cloner can clone the server you want with all the perms of roles in 
 5.  Then select this code
 6.  Click Create Repl
 7.  Wait it to be loaded
-8.  Now it will ask for language and run command , put thr following things in there to make it run :-
+8.  Now it will ask for language and run command , put the following things in there to make it run :-
 ```
 language = "python3"
 run = "python main.py"
@@ -54,4 +54,4 @@ And you will see all the channels , roles , permissions , channel logo are been 
 ~ You will see a *Copy ID* option<br>
 That's it 
 
-**This code is for educational self use and educationl purpose only**<br>**Please don't misuse it**
+**This code is for self use and educationl purpose only**<br>**Please don't misuse it**
