@@ -42,7 +42,7 @@ run = "python main.py"
 
 Alright ! Don't stop the repl because it may ruin the repl forever .<br>
 Wait until **Done** comes in the console<br>
-Then stop the repl and go to your servet where you cloned your main server<br>
+Then stop the repl and go to your server where you cloned your main server<br>
 And you will see all the channels , roles , permissions , channel logo are been cloned<br>
 
 **How to enable developer mode in Discord**<br>
