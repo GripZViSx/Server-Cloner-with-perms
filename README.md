@@ -31,25 +31,25 @@ run = "python main.py"
 9. Done !
 
 **How to clone**
-• Run the repl on Replit which you forked
-• Now it will ask for your account token
-• Put your token then click ↩ on your keyboard
-• It will ask for the server id you want to clone
-• Put the server id ( If you don't know how to get id then go at last ) dan click ↩
-• It will ask for a server id where you want to clone the main server
-• Make a new server and copy its id 
-• Paste it there and click ↩ last time .
+• Run the repl on Replit which you forked<br>
+• Now it will ask for your account token<br>
+• Put your token then click ↩ on your keyboard<br>
+• It will ask for the server id you want to clone<br>
+• Put the server id ( If you don't know how to get id then go at last ) than click ↩<br>
+• It will ask for a server id where you want to clone the main server<br>
+• Make a new server and copy its id <br>
+• Paste it there and click ↩ last time .<br><br>
 
-Alright ! Don't stop the repl because it may ruin the repl forever .
-Wait until **Done** comes in the console
-Then stop the repl and go to your servet ehrr you cloned your main server
-And you will see all the channels , roles , permissions , channel logo are been cloned
+Alright ! Don't stop the repl because it may ruin the repl forever .<br>
+Wait until **Done** comes in the console<br>
+Then stop the repl and go to your servet where you cloned your main server<br>
+And you will see all the channels , roles , permissions , channel logo are been cloned<br>
 
 **How to enable developer mode in Discord**
-~ Go to your discord account settings
-~ You will see *Accessibility* option
+~ Go to your discord account settings<br>
+~ You will see *Accessibility* option<br>
 ~ After clicking you will see Developer Mode option
-~ Just enable it
-~ After it just go to the three dots on any server
-~ You will see a *Copy ID* option
+~ Just enable it<br>
+~ After it just go to the three dots on any server<br>
+~ You will see a *Copy ID* option<br>
 That's it 
