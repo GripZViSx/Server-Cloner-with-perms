@@ -31,7 +31,7 @@ print(f"""{Fore.RED}
 ╚██████╔╝██║░░██║██║██║░░░░░███████╗
 ░╚═════╝░╚═╝░░╚═╝╚═╝╚═╝░░░░░╚══════╝
 {Style.RESET_ALL}
-                                                        Fore.MAGENTA}Developed by: Gripz.{Style.RESET_ALL}
+                                                        {Fore.MAGENTA}Developed by: Gripz.{Style.RESET_ALL}
         """)
 token = input(f'Please enter your token:\n >')
 guild_s = input('Please enter guild id you want to copy:\n >')
